@@ -12,7 +12,7 @@ EQUIPMENTS REQUIRED
 
 •	SCI LAB
 
-Note: Keep all the switch faults in off position
+Note: Keep all the switch faults in off position.
 
 
 Algorithm
