@@ -44,7 +44,7 @@ PROCEDURE
  
 •	Execute the code
 •	If any Error, correct it in code and execute again
-•	Verify the generated waveform using Tabulation and Model Waveform
+•	Verify the generated waveform using Tabulation and Model Waveform.
 
 Model Waveform
 
